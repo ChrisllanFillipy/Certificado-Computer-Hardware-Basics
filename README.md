@@ -1,8 +1,5 @@
 # Certificado-Computer-Hardware-Basics
-<p align="center">
-  <img src="<img width="1200" height="286" alt="unibras-logo" src="https://github.com/user-attachments/assets/8583c58c-5b5d-4ee4-8da7-ccf39bcdb5c9" />
-" alt="Logo UniBRAS" width="400"/>
-</p>
+![InstitutoUniBras]
 
 ---
 
