@@ -23,7 +23,7 @@ Certificado Curso **[Computer Hardware Basics - Cisco](https://www.netacad.com/c
 
 ## 📝 Identificação
 - *Disciplina:* Arquitetura e Organização de Computadores  
-- *Professor(a):* FRANCISMAR ALVES MARTINS JUNIOR  
+- *Professor(a):* [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/?original_referer=https%3A%2F%2Fgithub.com%2Fdiogohrq%2FCertificadoCisco%3Ftab%3Dreadme-ov-file) 
 
 ---
 
