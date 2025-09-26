@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Título do Projeto
-[Certificado Curso Computer Hardware Basics - Cisco](https://www.netacad.com/courses/computer-hardware-basics?courseLang=pt-BR)**  
+[Certificado Curso Computer Hardware Basics - Cisco](https://www.netacad.com/courses/computer-hardware-basics?courseLang=pt-BR)  
 
 ---
 
