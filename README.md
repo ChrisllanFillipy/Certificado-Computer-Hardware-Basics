@@ -16,7 +16,7 @@ Certificado Curso **[Computer Hardware Basics - Cisco](https://www.netacad.com/c
 ---
 
 ## 🎓 Docentes e Orientação
-- *Orientador(a):* FRANCISMAR ALVES MARTINS JUNIOR  
+- *Orientador(a):* [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/?original_referer=https%3A%2F%2Fgithub.com%2Fdiogohrq%2FCertificadoCisco%3Ftab%3Dreadme-ov-file)  
 - *Coordenador(a):* GUILHERME NOGUEIRA  
 
 ---
