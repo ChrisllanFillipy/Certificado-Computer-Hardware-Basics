@@ -11,7 +11,7 @@ Certificado Curso **[Computer Hardware Basics - Cisco](https://www.netacad.com/c
 ## 👥 Equipe de Autores e Participantes
 
 ### 👤 Aluno
-- Chrisllan Fillipy
+- [Chrisllan Fillipy](https://www.linkedin.com/in/chrisllan-fillipy-59716a387/)
 
 ---
 
