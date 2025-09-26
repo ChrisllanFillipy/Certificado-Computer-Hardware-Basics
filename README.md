@@ -36,4 +36,4 @@ Certificado Curso **[Computer Hardware Basics - Cisco](https://www.netacad.com/c
 ---
 
 ## 🎯 Tema e Contextualização
-> Introdução ao hardware de computadores, componentes internos, montagem, manutenção básica e fundamentos de redes.
+> Introdução ao hardware de computadores, componentes internos, montagem, manutenção básica e fundamentos de redes. 
