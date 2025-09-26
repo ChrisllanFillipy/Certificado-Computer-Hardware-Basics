@@ -28,7 +28,7 @@ Certificado Curso **[Computer Hardware Basics - Cisco](https://www.netacad.com/c
 ---
 
 ## 🖼️ Certificado
-![Certificado do Curso](<img width="2584" height="1750" alt="Image" src="https://github.com/user-attachments/assets/7294d6e5-5f32-4897-a6bb-5689e5e324f0" />)
+![Certificado do Curso]([Computer_Hardware_Basics_certificate_canseidecriarconta863-gmail-com_399898c3-aaf4-4988-b0d9-5449dcd8160a.pdf](https://github.com/user-attachments/files/22561477/Computer_Hardware_Basics_certificate_canseidecriarconta863-gmail-com_399898c3-aaf4-4988-b0d9-5449dcd8160a.pdf))
 
 - *Data de Conclusão:* 18/09/2025  
 - *Instituição:* Cisco Networking Academy  
