@@ -1,5 +1,5 @@
 # Certificado-Computer-Hardware-Basics
-![InstitutoUniBras]
+<img width="1200" height="286" alt="Image" src="https://github.com/user-attachments/assets/7fa9043f-4d71-4274-b4e1-287bd19cde9c" />
 
 ---
 
